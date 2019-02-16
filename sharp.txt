@@ -1,0 +1,34 @@
+  EL-W516x (556 functions) 
+  
+  EL-506X  (440 functions) 
+  
+  
+  A "W" prefix before the model number indicates  WriteView  capabilities. 
+  
+   
+   Sharp EL-W516x
+Solar power & lithium battery (LR44)
+Weight: 102 g  (136 g with cover) 
+ 
+Dimensions  (with cover) :
+width: 80 mm  (86 mm)
+length: 168 mm  (171 mm)
+height: 16 mm  (18 mm)
+[ EL-W516XBSL, pictured at left ]
+
+47 + 4  keys
+ 
+dot-matrix LCD  (96 by 31 pixels)
+4 lines of 16 characters
+(5 by 7 font)  or 2D layout
+ 
+15-digit precision
+(10 digits shown)
+ 
+9 variables: x,y,m,a,b,c,d,e,f
+4 formula memories: f1,f2,f3,f4 
+ 
+556 functions
+4 user-definable keys
+
+
